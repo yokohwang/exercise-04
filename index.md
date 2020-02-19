@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
     <title>Web Images</title>
@@ -8,7 +8,6 @@
   <body>
 
     <h1>Web Images</h1>
-
     <p>Original Image: 1.9MB</p>
 
     <img src="coral-reef-low.jpg" alt="low quality jpg" />
@@ -25,7 +24,7 @@
 
     <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
     <p>Maximum quality 100(%). File size: 308 KB</p>
-
+    
 
   </body>
 </html>
